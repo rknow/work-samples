@@ -8,5 +8,10 @@ namespace FileParseApi
 {
     class HtmlReportPrinter : ReportPrinter
     {
+        public HtmlReportPrinter(MedReport report)
+        {
+
+        }
+
     }
 }
