@@ -1,0 +1,12 @@
+C:\Users\microtech\Documents\PROGRAMS\DotNet\SDiFileParser\FileParseApi\bin\Debug\FileParseApi.dll
+C:\Users\microtech\Documents\PROGRAMS\DotNet\SDiFileParser\FileParseApi\bin\Debug\FileParseApi.pdb
+C:\Users\microtech\Documents\PROGRAMS\DotNet\SDiFileParser\FileParseApi\obj\Debug\FileParseApi.csproj.CoreCompileInputs.cache
+C:\Users\microtech\Documents\PROGRAMS\DotNet\SDiFileParser\FileParseApi\obj\Debug\FileParseApi.dll
+C:\Users\microtech\Documents\PROGRAMS\DotNet\SDiFileParser\FileParseApi\obj\Debug\FileParseApi.pdb
+C:\Users\microtech\Documents\PROGRAMS\DotNet\SDiFileParser\FileParseApi\obj\Debug\FileParseApi.csprojAssemblyReference.cache
+C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\bin\Debug\FileParseApi.dll
+C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\bin\Debug\FileParseApi.pdb
+C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.csprojAssemblyReference.cache
+C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.csproj.CoreCompileInputs.cache
+C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.dll
+C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.pdb
