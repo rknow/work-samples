@@ -10,3 +10,8 @@ C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debu
 C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.csproj.CoreCompileInputs.cache
 C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.dll
 C:\Users\microtech\Documents\PROGRAMS\DotNet\FileParserApp\FileParseApi\obj\Debug\FileParseApi.pdb
+C:\Users\microtech\source\repos\samples\FileParserApp\FileParserApp\FileParseApi\bin\Debug\FileParseApi.dll
+C:\Users\microtech\source\repos\samples\FileParserApp\FileParserApp\FileParseApi\bin\Debug\FileParseApi.pdb
+C:\Users\microtech\source\repos\samples\FileParserApp\FileParserApp\FileParseApi\obj\Debug\FileParseApi.csproj.CoreCompileInputs.cache
+C:\Users\microtech\source\repos\samples\FileParserApp\FileParserApp\FileParseApi\obj\Debug\FileParseApi.dll
+C:\Users\microtech\source\repos\samples\FileParserApp\FileParserApp\FileParseApi\obj\Debug\FileParseApi.pdb

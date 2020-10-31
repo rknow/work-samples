@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AttributeMapper.cs" />
     <Compile Include="FileParser.cs" />
+    <Compile Include="HtmlReportPrinter.cs" />
     <Compile Include="MedReport.cs" />
     <Compile Include="ParseUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
