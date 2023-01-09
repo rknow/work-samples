@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/Script.js"></script>
+    <link href="css/Style.css" rel="stylesheet" />
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+    <div ng-controller="myController">
+        <table>
+            <tr>
+                <td>Firstname: </td>
+                <td><input type="text" ng-model="firstname" /></td>
+            </tr>
+            <tr>
+                <td>Lastname: </td>
+                <td><input type="text" ng-model="lastname" /></td>
+            </tr>
+            <tr>
+                <td>Date of Birth: </td>
+                <td><input type="text" ng-model="dateOfBirth" title="format: YYYY-MM-DD" /></td>
+                <td><span> (format: YYYY-MM-DD) (1 for Jan, 12 for December)</span></td>
+            </tr>
+            <tr>
+                <td>GPA: </td>
+                <td><input type="text" ng-model="gpa" title="e.g 3.9 (>0 and <=4.0)" /></td>
+                <td><span> e.g 3.9 (>0 and <=4.0) </span></td>
+            </tr>
+            <tr>
+
+                <td><input type="button" value="Submit" ng-click="postStudents(firstname,lastname,dateOfBirth,gpa)" /></td>
+            </tr>
+          
+        </table>
+        <hr />
+        <div>
+            <span id="spnMessage">{{ errMessage }}</span>
+            <span id="spnMessage">{{ successMessage }}</span>
+        </div>
+    </div>
+</body>
+</html>
