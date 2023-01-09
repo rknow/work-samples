@@ -1,0 +1,191 @@
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\ApplicationInsights.config
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\csc.exe
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\vbc.exe
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.dll.config
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.pdb
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Antlr3.Runtime.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Web.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Newtonsoft.Json.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Net.Http.Formatting.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Helpers.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.WebHost.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Mvc.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Optimization.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Razor.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\WebGrease.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Web.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Newtonsoft.Json.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Net.Http.Formatting.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Helpers.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.WebHost.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Mvc.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Optimization.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Razor.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Antlr3.Runtime.pdb
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.dll
+C:\Users\rnapp\Documents\Visual Studio 2015\Projects\ProgrammingTest\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.pdb
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\ApplicationInsights.config
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.dll.config
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.pdb
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\WebGrease.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.csproj.CopyComplete
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.dll
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.pdb
+C:\Users\HP\Downloads\ProgrammingTest\ProgrammingTest\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.csprojAssemblyReference.cache
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\ApplicationInsights.config
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._csc.exe
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._Microsoft.CodeAnalysis.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._Microsoft.CSharp.Core.targets
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._Microsoft.VisualBasic.Core.targets
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._System.Collections.Immutable.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._System.Reflection.Metadata.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._vbc.exe
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._VBCSCompiler.exe
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\._VBCSCompiler.exe.config
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\csc.exe
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\vbc.exe
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.dll.config
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\SDiStudentApi.pdb
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Antlr3.Runtime.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Web.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Newtonsoft.Json.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Net.Http.Formatting.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Helpers.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.WebHost.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Mvc.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Optimization.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Razor.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\WebGrease.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.Web.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Newtonsoft.Json.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Net.Http.Formatting.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Helpers.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Http.WebHost.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Mvc.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Optimization.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.Razor.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\bin\Antlr3.Runtime.pdb
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.csproj.CoreCompileInputs.cache
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.csproj.CopyComplete
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.dll
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.pdb
+C:\Users\microtech\Documents\PROGRAMS\Angular\SDiStudentApi\SDiStudentApi\obj\Debug\SDiStudentApi.csproj.AssemblyReference.cache

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <title></title>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/Script.js"></script>
+    <link href="css/Style.css" rel="stylesheet" />
+	<meta charset="utf-8" />
+</head>
+<body ng-init="getS='true'">
+
+    <div ng-controller="myController">
+
+        <table>
+            <thead>
+                <tr style="font-weight:bold">
+                    <td>First Name</td>
+                    <td>Last Name</td>
+                    <td>Date of Birth </td>
+                    <td>GPA </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="student in students">
+                    <td> {{ student.Firstname }}</td>
+                    <td> {{ student.Lastname }}</td>
+                    <td> {{ student.DateOfBirth }}</td>
+                    <td> {{ student.GPA }}</td> 
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>
