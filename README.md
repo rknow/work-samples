@@ -46,7 +46,7 @@ The UI project calls the methods from the class library to execute the aforement
 
 ## Disclaimer
 
-**Note:** The images and data shown in this repository are produced from randomly generated data for demonstration purposes. They do not represent real persons or actual events. Any resemblance is purely coincidental.
+**Note:** The images and data shown in the images are produced from randomly generated data for demonstration purposes. They do not represent real persons or actual events. Any resemblance is purely coincidental.
 
 
 ## Screenshots
@@ -56,29 +56,29 @@ Here are some screenshots showing key features of the application:
 ### 1. **Login Screen**
 This is the initial screen where users can log into the application:
 
-![Login Screen](assets/screenshots/medapp_screen_login.jpg)
+![Login Screen](assets/screenshots/medapp_screen_login.JPG)
 
 ### 2. **Main Dashboard**
 After logging in, users can view the main dashboard, where medical records are displayed in a table format.
 
-![Main Dashboard](assets/screenshots/medapp_screen_run_reports.jpg)
+![Main Dashboard](assets/screenshots/medapp_screen_run_reports.JPG)
 
 ### 3. **Search Functionality**
 Users can search for specific records by patient ID or facility ID. Here’s how the search results are shown:
 
-![Search Results](assets/screenshots/medapp_screen_search.jpg)
+![Search Results](assets/screenshots/medapp_screen_search.JPG)
 
 
 ### 4. **Sort Functionality**
 Users can sort medical records by metadata field e.g. patient ID or facility ID. Here’s how the sort results are shown:
 
-![Search Results](assets/screenshots/medapp_screen_sortbyfield.jpg)
+![Search Results](assets/screenshots/medapp_screen_sortbyfield.JPG)
 
 
 ### 5. **View Results in Browser interface (with highlighting)**
 Users can view results in a browser interface while hightlighing search or 'sortby' fields. Here’s how the sort results are shown:
 
-![Search Results](assets/screenshots/medapp_screen_showlight_search.jpg)
+![Search Results](assets/screenshots/medapp_screen_showlight_search.JPG)
 
 
 ---
