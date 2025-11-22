@@ -9,10 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="picon.jpg" />
+    <None Remove="shapes.jpg" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="picon.png" />
+    <Resource Include="shapes.png" />
   </ItemGroup>
+
 </Project>
