@@ -2,7 +2,7 @@
 
 This repository contains three Visual Studio projects, each serving different purposes. The solutions are:
 
-1. FileParserApp: Contains a class library project (FileParseApi) and its corresponding WPF (Windows Presentation Foundation) user interface project (FileParserUserInterface).
+1. FileParserApp: Contains a class library project (FileParseApi) and its corresponding (WPF) user interface project (FileParserUserInterface).
 2. HostingWpfUserControlInWf: Contains a WPF application that displays geometric shapes.
 3. SDiStudentApi: Contains an ASP.NET application with an Angular frontend that implements a Web API.
 
@@ -10,7 +10,7 @@ This repository contains three Visual Studio projects, each serving different pu
 
 - [FileParserApp: Medical Record Management System](#fileparserapp-medical-record-management-system)
 - [HostingWpfUserControlInWf: WPF Geometric Shapes Display](#hostingwpfusercontrolinwf-wpf-geometric-shapes-display)
-- [SDiStudentApi: ASP.NET Web API with Angular](#sdistudentapi-aspnet-web-api-with-angular)
+- [SDiStudentApi: ASP.NET Web API with Angular](#sdistudentapi-asp.net-web-api-with-angular)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [License](#license)
@@ -89,13 +89,15 @@ This solution contains a WPF application that displays one or more geometric sha
 
 - **UserControls for Geometric Shapes**: UserControls define various geometric shapes (e.g., circles, rectangles, polygons).
 - **Grid Display**: These shapes are displayed in a grid layout in the `MainWindow.xaml`.
-- **Dynamic Shape Generation**: The number and types of shapes to be displayed can be dynamically generated based on user input or predefined configurations.
+- **Dynamic Shape Generation**: The number and types of shapes to be displayed can be dynamically generated based on user input.
+
+![Dynamic Shape Generator](assets/screenshots/geometric_shapes_generator.PNG)
 
 This solution demonstrates basic WPF usage, user controls, and layout management.
 
 ---
 
-<h2 id="sdistudentapi-aspnet-web-api-with-angular"> SDiStudentApi: ASP.NET Web API with Angular</h2>
+## SDiStudentApi: ASP.NET Web API with Angular
 
 This solution includes an ASP.NET application using the Angular library to create a Web API application. It includes:
 
@@ -147,7 +149,7 @@ SDiStudentApi
 - Angular (requires Node.js and npm)
 
 ## License
-The source code in this project is licensed under the MIT License.
+The source code in this repository is licensed under the MIT License.
 
 ## Acknowledgments
 

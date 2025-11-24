@@ -5,8 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HostingWpfUserControlInWf"
         mc:Ignorable="d"
-        Title="Geometric Shapes" Height="450" Width="800" Icon="pack://application:,,,/picon.png">
+        Title="Geometric Shapes" Height="450" Width="800" Icon="pack://application:,,,/shapes.png">
+    <ScrollViewer>
     <Grid>
-        <local:ConeControl HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+        <WrapPanel Grid.Column="0" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" x:Name="wrapPanel1">
+            <Button Content="Generate Cone Shape"  Margin="5,10,5,5" FontSize="16" FontWeight="Bold" Click="btnGenerateConeShape_Click"></Button>
+            <Label Margin="5,10,5,5" Content="Total Cones on screen: 0" FontWeight="Bold"></Label>
+            <Button Content="Remove Cone Shape"  Margin="5,10,5,5" FontSize="16" FontWeight="Bold" Click="btnRemoveConeShape_Click"></Button>          
+        </WrapPanel>
+        <WrapPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" x:Name="wrapPanel2">
+           <Button Content="Generate Rectangle Shape"  Margin="5,10,5,5" FontSize="16" FontWeight="Bold" Click="btnGenerateRectangleShape_Click"></Button>
+           <Label Margin="5,10,5,5" Content="Total Rectangles on screen: 0" FontWeight="Bold"></Label>
+           <Button Content="Remove Rectangle Shape"  Margin="5,10,5,5" FontSize="16" FontWeight="Bold" Click="btnRemoveRectangleShape_Click"></Button>       
+        </WrapPanel>
+        <WrapPanel Grid.Column="2" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" x:Name="wrapPanel3">
+           <Button Content="Generate Circle Shape"  Margin="5,10,5,5" FontSize="16" FontWeight="Bold" Click="btnGenerateCircleShape_Click"></Button>
+           <Label Margin="5,10,5,5" Content="Total Circles on screen: 0" FontWeight="Bold"></Label>
+           <Button Content="Remove Circle Shape"  Margin="5,10,5,5" FontSize="16" FontWeight="Bold" Click="btnRemoveCircleShape_Click"></Button>        
+        </WrapPanel>
     </Grid>
+    </ScrollViewer>
 </Window>
